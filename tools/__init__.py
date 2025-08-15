@@ -1,0 +1,1 @@
+from .market_research_tool import research_idea
